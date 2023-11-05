@@ -1,0 +1,2 @@
+# Nashville-Housing-Unveiled-SQL-Driven-Data-Cleaning-and-Feature-Enhancement
+In the 'Nashville Housing Insights' project, we meticulously cleaned and enriched raw housing data using SQL techniques. Employing advanced data cleaning methods and strategic feature engin eering, we transformed the dataset into a refined, structured format. This process enhanced our analytical capabilities, revealing nuanced insights crucial for informed decision-making in the Nashville housing market.
